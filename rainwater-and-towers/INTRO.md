@@ -1,4 +1,4 @@
-[Back to list](https://github.com/bewakes/interesting-problems/master/README.md)
+[Back to list](https://github.com/bewakes/interesting-problems/blob/master/README.md)
 
 ## Rainwater collection over towers
 
